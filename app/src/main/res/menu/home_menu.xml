@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--    <item-->
+    <!--        android:id="@+id/home_dm"-->
+    <!--        android:enabled="true"-->
+    <!--        android:icon="@drawable/ic_chat_bubble_outline"-->
+    <!--        android:title="@string/search"-->
+    <!--        app:showAsAction="ifRoom" />-->
+</menu>

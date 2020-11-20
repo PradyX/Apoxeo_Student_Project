@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "277214818897",
+    "firebase_url": "https://apoxeo-70f01.firebaseio.com",
+    "project_id": "apoxeo-70f01",
+    "storage_bucket": "apoxeo-70f01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277214818897:android:6b8daa5b5e63c6ac2c3e70",
+        "android_client_info": {
+          "package_name": "com.prady.apoxeostudentproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277214818897-490chg5oh7c0vg7iouvrl71263fa0fer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsW-VDyGf2cw_dgdbLqh20THVzc6rTdDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277214818897-490chg5oh7c0vg7iouvrl71263fa0fer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
